@@ -1,4 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Bonus/total)
+![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Bonus-x10/total)
 
 # :zap: Bonus581 V1.0.0
 
