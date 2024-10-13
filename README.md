@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Bonus/total)
+
 # :zap: Bonus581 V1.0.0
 
 Bonus581 est un plugin Nova-Life permettant de mettre en valeur les niveau. Ce plugin donne un bonus d'argent en fonction de son niveau toute les heure.
